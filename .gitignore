@@ -1,0 +1,15 @@
+# Dossiers de compilation SBT / Scala
+target/
+project/target/
+project/project/
+.bsp/
+
+# Fichiers de configuration IDE (IntelliJ, VS Code, etc.)
+.idea/
+.vscode/
+*.iml
+
+# Logs et fichiers système
+*.log
+.DS_Store
+Thumbs.db
